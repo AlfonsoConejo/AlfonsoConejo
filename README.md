@@ -3,7 +3,7 @@ I'm a recently graduated front-end web developer eager to learn and grow my skil
 
 #### Languages and tools:
 <p align="left"> 
-  <a href="#" target="_blank">
+  
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"     height="40"/>
